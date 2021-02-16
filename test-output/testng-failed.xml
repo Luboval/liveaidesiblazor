@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/Courses/Java/LiveAI/liveaidesiblazor(failed)">
+    <classes>
+      <class name="com.liveaidesiblazor.OpenLoginPage">
+        <methods>
+          <include name="launchDesi"/>
+          <include name="initialiseBrowser"/>
+          <include name="verifyTitle"/>
+          <include name="verifyForm"/>
+        </methods>
+      </class> <!-- com.liveaidesiblazor.OpenLoginPage -->
+    </classes>
+  </test> <!-- D:/Courses/Java/LiveAI/liveaidesiblazor(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

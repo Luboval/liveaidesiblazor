@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abc3694a-4a50-41e8-9ba2-502540684831" name="Default Changelist" comment="" />
+    <list default="true" id="abc3694a-4a50-41e8-9ba2-502540684831" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/conf.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,16 +19,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="510">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -28,8 +35,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="221">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/ReadPropertyFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -37,8 +65,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="340">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,17 +107,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/ConfProperties.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/WaitFluent.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/conf.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/ReadPropertyFile.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/conf.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/LoginPage.java" />
       </list>
     </option>
   </component>
@@ -76,9 +132,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="252" />
+    <option name="y" value="5" />
     <option name="width" value="1575" />
     <option name="height" value="1000" />
   </component>
@@ -87,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,15 +184,21 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="liveaidesiblazor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveaidesiblazor" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,7 +220,34 @@
     <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="liveaidesiblazor" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenLoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="liveaidesiblazor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liveaidesiblazor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liveaidesiblazor" />
+      <option name="MAIN_CLASS_NAME" value="com.liveaidesiblazor.OpenLoginPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -185,10 +275,12 @@
     <list>
       <item itemvalue="TestNG.Unnamed" />
       <item itemvalue="TestNG.D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" />
+      <item itemvalue="TestNG.OpenLoginPage" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" />
+        <item itemvalue="TestNG.OpenLoginPage" />
       </list>
     </recent_temporary>
   </component>
@@ -206,71 +298,91 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.11 at 23h 44m 34s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.21 at 08h 23m 28s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.11 at 23h 49m 24s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.21 at 08h 27m 42s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.11 at 23h 51m 09s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.21 at 08h 32m 35s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.11 at 23h 52m 04s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.21 at 08h 35m 22s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.11 at 23h 59m 33s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.21 at 08h 39m 37s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.12 at 00h 03m 40s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.02.16 at 19h 01m 29s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.12 at 00h 06m 04s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.02.16 at 19h 02m 56s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.12 at 00h 07m 29s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.02.16 at 19h 10m 36s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.01.12 at 00h 12m 26s.xml">
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.02.16 at 19h 12m 37s.xml">
+      <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Courses_Java_LiveAI_liveaidesiblazor_testng_xml - 2021.02.16 at 22h 34m 10s.xml">
       <configuration name="D:/Courses/Java/LiveAI/liveaidesiblazor/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="16" width="1260" height="800" extended-state="0" />
+    <frame x="202" y="4" width="1260" height="800" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32934132" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/WaitFluent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1052">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/BrowserFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="340">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -279,32 +391,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/WaitFluent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        <state relative-caret-position="221">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/OpenLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="306">
+          <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -313,20 +408,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/ReadPropertyFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="26">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="85">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liveaidesiblazor/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
